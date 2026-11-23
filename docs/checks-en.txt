@@ -1,0 +1,143 @@
+OK exact V14 and native engine
+OK Classic and Story start with stock items
+OK Story difficulty is writable
+OK Classic/Story keep base money floor
+OK Classic IVs and native setter
+OK introduction selector anchor
+OK Story remains selectable in real intro event
+OK cancel irreversible selection and choose Classic
+OK third choice activates on real intro event
+OK same native badge level caps as Classic
+OK normalize existing party
+OK normalize already stored Pokémon
+OK convert held pre-existing Rare Candy
+OK convert existing bag stock
+OK convert existing PC stock
+OK starter item HPCARD
+OK starter item ATKCARD
+OK starter item DEFCARD
+OK starter item SPATKCARD
+OK starter item SPDEFCARD
+OK starter item SPEEDCARD
+OK starter item MACHOBRACE
+OK starter item NUITMINTCASE
+OK starter item NUITEVRESET
+OK duplicate initialization grants no extra items
+OK difficulty locked by index and symbol
+OK password entry and toggle blocked
+OK intro password branch returns to cleanup
+OK field app and every compiled field switch
+OK all published fields visible without cross-slot unlock
+OK no conditional field-note text hidden
+OK wild Pokémon through encounter generator
+OK egg creation with real IVs
+OK scripted gift specifying six zero IVs
+OK IV mutations resisted after recalculation
+OK original Classic team, moves, levels and EVs
+OK trainer Pokémon all have perfect IVs
+OK legendary with six IVs
+OK scripted boss builder preserves boss and six IVs
+OK native NPC trade normalizes received existing Pokemon
+OK EV room card activates compiled terminal 52
+OK EV room card activates compiled terminal 53
+OK EV room card activates compiled terminal 54
+OK EV room card activates compiled terminal 55
+OK EV room card activates compiled terminal 56
+OK EV room card activates compiled terminal 57
+OK two reusable native key items
+OK localized item label through real bag API
+OK localized item description through real bag API
+OK twenty-one distinct mint effects
+OK use EV reset through party interface
+OK all six EVs reset, stats recalculated, key item kept
+OK cancel mint menu keeps nature
+OK real mint LONELY
+OK real mint BRAVE
+OK real mint ADAMANT
+OK real mint NAUGHTY
+OK real mint BOLD
+OK real mint RELAXED
+OK real mint IMPISH
+OK real mint LAX
+OK real mint TIMID
+OK real mint HASTY
+OK real mint SERIOUS
+OK real mint JOLLY
+OK real mint NAIVE
+OK real mint MODEST
+OK real mint MILD
+OK real mint QUIET
+OK real mint RASH
+OK real mint CALM
+OK real mint GENTLE
+OK real mint SASSY
+OK real mint CAREFUL
+OK bag menu selects a party member and uses reusable key items
+OK case remains after 21 uses
+OK new bag distribution converted
+OK new PC distribution converted
+OK EXP candy retains its identity
+OK held drop converted
+OK replacement shop goods keep both prices and currencies
+OK map item pickup and event gift award Ultra Balls
+OK shared shop definition unchanged
+OK Nuit hides battle style, difficulty and backup choices
+OK comfort settings remain accessible
+OK mixed trainer first battle available
+OK targeted trainer event 228/7/0
+OK neighbor 228/8/0 untouched
+OK targeted trainer event 254/45/0
+OK neighbor 254/46/0 untouched
+OK targeted trainer event 389/15/0
+OK neighbor 389/16/0 untouched
+OK targeted trainer event 516/115/0
+OK neighbor 516/116/0 untouched
+OK targeted trainer event 516/115/1
+OK neighbor 516/116/1 untouched
+OK targeted trainer event 516/115/2
+OK neighbor 516/116/2 untouched
+OK trainer item registration blocked on both sides
+OK trainer Bag menu returns normal cancel shape
+OK wild potion can be registered
+OK normal ball targeting permits a live wild Pokémon
+OK ordinary battle EV yield
+OK native 510 total limit
+OK native 252 individual limit
+OK accelerated training with native Macho Brace
+OK Recover restores HP through the native move
+OK held berry consumed and recovers HP in battle
+OK Regenerator heals departing Pokemon
+OK native wild capture places Pokemon in party
+OK ordinary revive usable outside battle
+OK expected trainer award in first duel
+OK engine finishes trainer loss
+OK loss creates real negative balance
+OK defeat written before return to overworld
+OK no native second blackout debit
+OK Set style enforced by replacement routine
+OK AI did not consume its potion
+OK mint, IVs and adventure id in serialized game
+OK native slot label identifies adventure
+OK cold restart through native Continue
+OK defeat persists after process exit
+OK restored party retains true nature and IVs
+OK original adventure restored
+OK engine finishes trainer win
+OK opponent sends its reserve with no free switch prompt
+OK stock victory prize raises negative balance
+OK save new balance in the active slot
+OK winning balance on disk
+OK damaged staged write leaves active slot intact
+OK recovery copy loads and is outside the slot list
+OK stale revision cannot overwrite newer slot
+OK other adventure is byte-identical
+OK native shop declines purchase with insufficient funds
+OK money display retains negative sign
+OK native shop sells an item and credits the negative purse
+OK event cash operation 0
+OK event cash operation 1
+OK map change records an idle overworld checkpoint
+OK native Continue opens a copied technical recovery file
+OK other Story adventure loads with native IVs and difficulty
+OK Story shop and native item catalog restored
+OK changed version refuses marked save before loading it
